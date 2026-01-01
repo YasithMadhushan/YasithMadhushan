@@ -4,9 +4,8 @@
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Yasith Madhushan</a></h1>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<!--horizontal divider(gradiant)-->
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 👨‍💻 I'm an Undergraduate at **University Of Ruhuna**
@@ -22,14 +21,14 @@ Yasith Madhushan</a></h1>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Languages & Tools:</h2></summary>
   </ul>
   
 </div>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,php,java,cs,react,spring,postman,mysql,supabase,mongodb,git,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,php,java,cs,react,spring,postman,mysql,supabase,mongodb,docker,git,github&perline=5" />
   </a>
 </p>
 
